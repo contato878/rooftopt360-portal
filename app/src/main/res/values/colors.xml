@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_amber">#D97706</color>
+    <color name="primary_amber_bright">#F59E0B</color>
+    <color name="background_dark">#0A0A0D</color>
+    <color name="surface_dark">#121318</color>
+    <color name="surface_elevated">#1A1B24</color>
+    <color name="ic_launcher_bg">#0A0A0D</color>
+</resources>

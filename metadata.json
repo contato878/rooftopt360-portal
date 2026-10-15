@@ -1,0 +1,8 @@
+{
+  "name": "House Land Rock Chopp",
+  "description": "Plataforma premium para gestão e venda de ingressos do festival House Land Rock Chopp, com estética Rock & Chopp, modal dinâmico de conversão e painel administrativo em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
